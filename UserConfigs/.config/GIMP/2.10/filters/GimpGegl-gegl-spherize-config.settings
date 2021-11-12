@@ -1,0 +1,12 @@
+# settings
+
+(GimpGegl-gegl-spherize-config "2021-04-19 14:26:23"
+    (time 1618835183)
+    (gimp-clip clip)
+    (mode radial)
+    (angle-of-view 180)
+    (curvature 1)
+    (amount 1)
+    (sampler-type linear))
+
+# end of settings

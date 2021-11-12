@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(palette "Standard")
+(font "Alpine 7558M")
+(font-size 24)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

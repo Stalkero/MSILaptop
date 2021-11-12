@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-wind-config "2021-09-13 15:45:56"
+    (time 1631540756)
+    (style blast)
+    (direction left)
+    (edge leading)
+    (threshold 0)
+    (strength 16)
+    (seed 0))
+(GimpGegl-gegl-wind-config "2021-09-13 15:36:32"
+    (time 1631540192)
+    (style wind)
+    (direction left)
+    (edge leading)
+    (threshold 15)
+    (strength 26)
+    (seed 0))
+
+# end of settings

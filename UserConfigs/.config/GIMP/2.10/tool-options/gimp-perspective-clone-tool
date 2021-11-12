@@ -1,0 +1,11 @@
+# GIMP gimp-perspective-clone-tool options
+
+(brush "2. Hardness 075")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(palette "Standard")
+(brush-size 3)
+(brush-hardness 0.75)
+(brush-force 0.46999999999999997)
+
+# end of gimp-perspective-clone-tool options
