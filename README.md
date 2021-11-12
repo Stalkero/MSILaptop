@@ -12,3 +12,7 @@ Pipewire with EasyEffects
 
 ## Utilites
 `isw` To control fan speeds read RPMs and internals temps
+
+
+## Screenshot
+![Shell is zsh idk what happend](https://raw.githubusercontent.com/Stalkero/MSILaptop/main/Screenshots/screenshot1.png)
